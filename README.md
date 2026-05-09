@@ -7,7 +7,7 @@
 ## 📌 Jurnal Referensi
 **Judul:** *A Hybrid Approach for Real-time Vehicle Monitoring System (IJEM, 2024)*
 **Penulis:** Pankaj Pratap Singh, Shitala Prasad
-**Link Jurnal:** [https://www.mecs-press.org/ijem/ijem-v14-n1/IJEM-V14-N1-1.pdf](https://www.mecs-press.org/ijem/ijem-v14-n1/IJEM-V14-N1-1.pdf)
+**Link Jurnal:** [https://www.mecs-press.org/ijem/ijem-v14-n1/v14n1-1.html](https://www.mecs-press.org/ijem/ijem-v14-n1/v14n1-1.html)
 
 ---
 
@@ -32,12 +32,12 @@ pip install opencv-python numpy
 ```
 
 ### 2. File yang Dibutuhkan
-Pastikan di dalam satu folder (`Project 3`), terdapat dua file berikut:
+Pastikan di dalam satu folder, terdapat dua file berikut:
 - `deteksi_kendaraan.py` (File *Source Code* Python)
 - `traffic.mp4` (Video sampel jalan raya)
 
 ### 3. Menjalankan Program (Running)
-Buka terminal/CMD di dalam folder `Project 3`, lalu ketikkan perintah berikut:
+Buka terminal/CMD di dalam folder, lalu ketikkan perintah berikut:
 ```bash
 python deteksi_kendaraan.py
 ```
