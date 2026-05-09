@@ -1,0 +1,18 @@
+# Mengabaikan file materi presentasi dosen
+Slide-*.pdf
+
+# Mengabaikan file tugas kelas (CSV/Excel)
+TUGAS AKHIR PCD*.csv
+TUGAS AKHIR PCD*.xlsx
+
+# Mengabaikan file teks sementara hasil ekstrak dari AI
+pdf_summary.txt
+excel_dump.txt
+journal_content.txt
+
+# Mengabaikan cache python
+__pycache__/
+*.pyc
+
+# (Opsional) Jika tidak ingin memasukkan video sampel ke github karena ukurannya, hilangkan tanda pagarnya:
+# traffic.mp4
